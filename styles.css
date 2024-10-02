@@ -10,7 +10,8 @@ body {
     font-family: 'Arial', sans-serif;
     height: 100vh;
     overflow: auto;
-    color: #fff;
+    color: #252535;
+    background-color: #252535;
 }
 
 .background {
@@ -129,3 +130,17 @@ h2 {
     margin-right: 0; 
 }
 
+.mobile-icon {
+    font-size: 30px;
+}
+
+.mobile-img {
+    width: 200px;
+    height: 200px;
+}
+
+.mobile-video {
+    width: 300px;
+    height: 500px;
+    padding-block-start: 10%;
+}
